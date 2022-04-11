@@ -38,7 +38,7 @@
     .frm1{
     
         width: 98vw;
-        height: 50vh;
+        height: 60vh;
         overflow: hidden;
     }
     
