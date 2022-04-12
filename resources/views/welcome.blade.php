@@ -57,5 +57,9 @@
     
     }
         </style>
+        
+        <h3>HB0 bins</h3>
+        <p>515462002xxxxxxx - 1 year (common)</p>
+        
     </body>
 </html>
